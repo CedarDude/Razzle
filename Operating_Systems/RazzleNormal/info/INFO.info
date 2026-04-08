@@ -1,0 +1,15 @@
+RAZZLE OPERATING SYSTEM
+
+
+-- using grub for boot stage!
+
+-- 32BIT OPERATING SYSTEM!
+
+-- system requirement
+
+    require BIOS
+    require a storing device
+        - USB
+        - HDD
+        - SSD
+    require a cpu that can go to 32BIT
