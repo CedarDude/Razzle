@@ -72,7 +72,7 @@ then use DD, not ISO mode thing.
 
 - **VirtualBox**: Create new VM, use `razzle.iso` as boot media
 - **VMware**: Attach `razzle.iso` as CD/DVD drive
-- **Hyper-V**: Create Gen 1 VM, attach ISO, set to Legacy Boot
+- **Hyper-V**: Create a VM, attach an ISO, and set to Legacy Boot
 ## Version Information
 
 - **Shell Version**: 0.1 BETA
