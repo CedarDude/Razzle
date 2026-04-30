@@ -1,3 +1,4 @@
+wait
 # Razzle
 Razzle Operating System.
 # Razzle 1
